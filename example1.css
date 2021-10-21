@@ -1,0 +1,34 @@
+.base{
+    background: silver;
+    height: 800px;
+    width: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.A{
+background: red;
+    height: 400px;
+    width: 1000px;
+    text-align: center;
+
+
+}
+.footer{
+    display: flex;
+
+}
+.B{
+background: blue;
+    height: 400px;
+    width: 700px;
+    text-align: center;
+
+}
+.C{
+    background: black;
+    height: 400px;
+    width: 300px;
+    text-align: center;
+    color: white;
+
+}
